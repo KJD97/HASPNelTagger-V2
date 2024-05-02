@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+folium
+streamlit_folium
+watchdog
+openpyxl
+xlrd
+streamlit_extras
+nltk

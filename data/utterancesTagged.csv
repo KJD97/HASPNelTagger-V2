@@ -1,0 +1,549 @@
+utterance,tagged
+I found out something which will interest you.,I|Pron found|V out|Part something|N which|WhD will|Mod interest|N you|Pron .|. 
+The poem that John wrote was very good.,The|D poem|N that|WhD John|N wrote|V was|V very|Adv good|A .|. 
+The shield that saved Bill's life is made of silver.,The|D shield|N that|WhD saved|V Bill|N 's|Pos life|N is|V made|V of|P silver|N .|. 
+The book that I said that I had never read was enjoyable.,The|D book|N that|P I|Pron said|V that|P I|Pron had|V never|Adv read|V was|V enjoyable|A .|. 
+The book which Susan lent to Mary got lost.,The|D book|N which|WhD Susan|N lent|N to|To-Inf Mary|N got|V lost|V .|. 
+The time when you left scared me. ,The|D time|N when|WhAdv you|Pron left|V scared|V me|Pron .|. 
+I won't reveal the place where we found it.,I|Pron wo|Mod n't|Adv reveal|V the|D place|N where|WhAdv we|Pron found|V it|Pron .|. 
+The car that I bought last week is already causing me problems.,The|D car|N that|P I|Pron bought|V last|A week|N is|V already|Adv causing|V me|Pron problems|N .|. 
+I can’t remember the reason why I wanted to make syntactic trees.,I|Pron can|Mod ’|V t|A remember|V the|D reason|N why|WhAdv I|Pron wanted|V to|To-Inf make|V syntactic|A trees|N .|. 
+The man who I think might be drunk hit me.,The|D man|N who|WhPron I|Pron think|V might|Mod be|V drunk|A hit|V me|Pron .|. 
+The monkey that is eating the banana fell.,The|D monkey|N that|WhD is|V eating|V the|D banana|N fell|V .|. 
+The amoeba that coughed died.,The|D amoeba|N that|WhD coughed|V died|V .|. 
+I looked that number that we had seen yesterday up.,I|Pron looked|V that|P number|N that|P we|Pron had|V seen|V yesterday|N up|Part .|. 
+Can I keep the screwdriver that has the wooden handle?,Can|Mod I|Pron keep|V the|D screwdriver|N that|WhD has|V the|D wooden|N handle|N ?|. 
+Has Mary eaten the cake that is pink?,Has|N Mary|N eaten|V the|D cake|N that|WhD is|V pink|V ?|. 
+The man who had two buckets of milk fell.,The|D man|N who|WhPron had|V two|Q buckets|N of|P milk|N fell|V .|. 
+The pig that grunted played in the mud.,The|D pig|N that|WhD grunted|V played|V in|P the|D mud|N .|. 
+The bear that snuffled is running away.,The|D bear|N that|WhD snuffled|V is|V running|V away|Adv .|. 
+The man who chuckles is crying.,The|D man|N who|WhPron chuckles|V is|V crying|V .|. 
+The child that wails finally stopped. ,The|D child|N that|WhD wails|V finally|Adv stopped|V .|. 
+The sheep that bleats is still being sheared.,The|D sheep|N that|P bleats|N is|V still|Adv being|V sheared|V .|. 
+The woman who is singing is happy.,The|D woman|N who|WhPron is|V singing|V is|V happy|A .|. 
+The boys who left yesterday have arrived.,The|D boys|N who|WhPron left|V yesterday|N have|V arrived|V .|. 
+Those two men who fell down are gone.,Those|D two|Q men|N who|WhPron fell|V down|Adv are|V gone|V .|. 
+I lost the scissors that are red. ,I|Pron lost|V the|D scissors|N that|WhD are|V red|A .|. 
+The handsome girl who is big bought the table.,The|D handsome|A girl|N who|WhPron is|V big|A bought|V the|D table|N .|. 
+The girl who says that she reads books is walking.,The|D girl|N who|WhPron says|V that|P she|Pron reads|V books|N is|V walking|V .|. 
+The boy who has seen the man talked.,The|D boy|N who|WhPron has|V seen|V the|D man|N talked|V .|. 
+The students who had bought the book no longer want it.,The|D students|N who|WhPron had|V bought|V the|D book|N no|Adv longer|Adv want|V it|Pron .|. 
+Passive Voice,Passive|A Voice|N 
+The banana that is being eaten by that monkey is yellow.,The|D banana|N that|WhD is|V being|V eaten|V by|P that|D monkey|N is|V yellow|A .|. 
+The book that Bill read is no longer being read.,The|D book|N that|WhD Bill|N read|V is|V no|Adv longer|Adv being|V read|V .|. 
+The scissors that are red were thrown away.,The|D scissors|N that|WhD are|V red|A were|V thrown|V away|Adv .|. 
+It is being sung by the woman who is happy.,It|Pron is|V being|V sung|V by|P the|D woman|N who|WhPron is|V happy|A .|. 
+The place where we found the treasure will not be revealed.,The|D place|N where|WhAdv we|Pron found|V the|D treasure|N will|Mod not|Adv be|V revealed|V .|. 
+I am being caused problems by the car that I bought last week.,I|Pron am|V being|V caused|V problems|N by|P the|D car|N that|P I|Pron bought|V last|A week|N .|. 
+I was just hit by the guy who is wearing the red hat.,I|Pron was|V just|Adv hit|V by|P the|D guy|N who|WhPron is|V wearing|V the|D red|A hat|N .|. 
+The number that we wrote down yesterday was looked up.,The|D number|N that|P we|Pron wrote|V down|Adv yesterday|N was|V looked|V up|Part .|. 
+It was said by the boy who saw the man.,It|Pron was|V said|V by|P the|D boy|N who|WhPron saw|V the|D man|N .|. 
+The poem written by John was very good.,The|D poem|N written|V by|P John|N was|V very|Adv good|A .|. 
+Non-restrictive (NR),Non-restrictive|A (|( NR|N )|) 
+Active Voice,Active|A Voice|N 
+"The man that is escaping, who I think might be drunk, hit me.","The|D man|N that|WhD is|V escaping|V ,|, who|WhPron I|Pron think|V might|Mod be|V drunk|V ,|, hit|V me|Pron .|. "
+"I think that Bill, who lives next door, is drunk.","I|Pron think|V that|P Bill|N ,|, who|WhPron lives|V next|A door|N ,|, is|V drunk|A .|. "
+"Mary answered the question, which was difficult.","Mary|N answered|V the|D question|N ,|, which|WhD was|V difficult|A .|. "
+"I asked which king, of the old kings, had invaded the city.","I|Pron asked|V which|WhD king|N ,|, of|P the|D old|A kings|N ,|, had|V invaded|V the|D city|N .|. "
+"John listened to Bill's oration, the long winded oration, about Mary.","John|N listened|V to|To-Inf Bill|N 's|Pos oration|N ,|, the|D long|A winded|A oration|N ,|, about|P Mary|N .|. "
+"Susan, who was 32 years old, was interested in John's description of geometry.","Susan|N ,|, who|WhPron was|V 32|Q years|N old|A ,|, was|V interested|A in|P John|N 's|Pos description|N of|P geometry|N .|. "
+"I believed the claim, which is believable, that John would invade the city of Athens.","I|Pron believed|V the|D claim|N ,|, which|WhD is|V believable|A ,|, that|P John|N would|Mod invade|V the|D city|N of|P Athens|N .|. "
+"It was obvious that John, who was not good at hiding his feelings, loved Mary.","It|Pron was|V obvious|A that|P John|N ,|, who|WhPron was|V not|Adv good|A at|P hiding|V his|PosPron feelings|N ,|, loved|V Mary|N .|. "
+"A movie about Bill, the tragedian, is on the news tonight.","A|D movie|N about|P Bill|N ,|, the|D tragedian|N ,|, is|V on|P the|D news|N tonight|N .|. "
+"A description of John, the greek philosopher, is in the book.","A|D description|N of|P John|N ,|, the|D greek|A philosopher|N ,|, is|V in|P the|D book|N .|. "
+"Bill, who was quite afraid, had run away.","Bill|N ,|, who|WhPron was|V quite|Adv afraid|A ,|, had|V run|V away|Adv .|. "
+"It is tough to teach syntax, especially to the people who live next door.","It|Pron is|V tough|A to|To-Inf teach|V syntax|N ,|, especially|Adv to|To-Inf the|D people|N who|WhPron live|V next|A door|N .|. "
+"It is easy to slay the gorgon, who killed Bill. ","It|Pron is|V easy|A to|To-Inf slay|V the|D gorgon|N ,|, who|WhPron killed|V Bill|N .|. "
+"We observed that Susan killed the Gorgon, the one in the deep cave.","We|Pron observed|V that|P Susan|N killed|V the|D Gorgon|N ,|, the|D one|Q in|P the|D deep|A cave|N .|. "
+"I hoped that you, the gorgon slayer, would defeat him.","I|Pron hoped|V that|P you|Pron ,|, the|D gorgon|N slayer|N ,|, would|Mod defeat|V him|Pron .|. "
+"I wondered whether Mary, who has brown hair, had fled.","I|Pron wondered|V whether|P Mary|N ,|, who|WhPron has|V brown|V hair|N ,|, had|V fled|V .|. "
+"John saw the Gorgon, who looked angry, in his shield.","John|N saw|V the|D Gorgon|N ,|, who|WhPron looked|V angry|A ,|, in|P his|PosPron shield|N .|. "
+"Bill recited the poem about John, which consisted of wonderfully written prose.","Bill|N recited|V the|D poem|N about|P John|N ,|, which|WhD consisted|V of|P wonderfully|Adv written|V prose|N .|. "
+"He, who is a redhead, is that kind of actor.","He|Pron ,|, who|WhPron is|V a|D redhead|N ,|, is|V that|P kind|N of|P actor|N .|. "
+"Susan, sister of Mary, tended to appear evil.","Susan|N ,|, sister|N of|P Mary|N ,|, tended|V to|To-Inf appear|V evil|N .|. "
+"John, while searching for the golden fleece, persuaded Mary to try to run away.","John|N ,|, while|P searching|V for|P the|D golden|A fleece|N ,|, persuaded|V Mary|N to|To-Inf try|V to|To-Inf run|V away|Adv .|. "
+"Bill, during the Trojan war, expected Susan to seem to be happy.","Bill|N ,|, during|P the|D Trojan|N war|N ,|, expected|V Susan|N to|To-Inf seem|V to|To-Inf be|V happy|A .|. "
+"John, the god of lightning, wanted Mary to persuade Susan to leave.","John|N ,|, the|D god|N of|P lightning|N ,|, wanted|V Mary|N to|To-Inf persuade|V Susan|N to|To-Inf leave|V .|. "
+"For John to appear to be happy, which to date has never happened, would be impossible.","For|P John|N to|To-Inf appear|V to|To-Inf be|V happy|A ,|, which|WhD to|To-Inf date|N has|V never|Adv happened|V ,|, would|Mod be|V impossible|A .|. "
+"Mary tried to appear to be happy, which was impressive.","Mary|N tried|V to|To-Inf appear|V to|To-Inf be|V happy|A ,|, which|WhD was|V impressive|A .|. "
+"John, who was a wizard, refrained from casting the spell.","John|N ,|, who|WhPron was|V a|D wizard|N ,|, refrained|V from|P casting|V the|D spell|N .|. "
+"Bill, who was more powerful than John, stopped John from casting the spell.","Bill|N ,|, who|WhPron was|V more|Adv powerful|A than|P John|N ,|, stopped|V John|N from|P casting|V the|D spell|N .|. "
+"Bill stopped John from casting the spell, which would have been powerful.","Bill|N stopped|V John|N from|P casting|V the|D spell|N ,|, which|WhD would|Mod have|V been|V powerful|A .|. "
+"John thought of defending the dragon, which would have been impossible to do. ","John|N thought|N of|P defending|V the|D dragon|N ,|, which|WhD would|Mod have|V been|V impossible|A to|To-Inf do|V .|. "
+"Mary, who was the niece of Susan, denied poisoning the phoenix.","Mary|N ,|, who|WhPron was|V the|D niece|N of|P Susan|N ,|, denied|V poisoning|V the|D phoenix|N .|. "
+Passive Voice,Passive|A Voice|N 
+"The place, where we lived for six years, was suddenly broken into.","The|D place|N ,|, where|WhAdv we|Pron lived|V for|P six|Q years|N ,|, was|V suddenly|Adv broken|V into|P .|. "
+"The vampire, who crumbled into dust, was killed.","The|D vampire|N ,|, who|WhPron crumbled|V into|P dust|N ,|, was|V killed|V .|. "
+"The man, whose car I hit last week, was being sued.","The|D man|N ,|, whose|WhPos car|N I|Pron hit|V last|A week|N ,|, was|V being|V sued|V .|. "
+"I am wondering what was bought by John, who was wearing a green sweater.","I|Pron am|V wondering|V what|WhPron was|V bought|V by|P John|N ,|, who|WhPron was|V wearing|V a|D green|A sweater|N .|. "
+"The hat had been worn by Mary, who was born here.","The|D hat|N had|V been|V worn|V by|P Mary|N ,|, who|WhPron was|V born|V here|Adv .|. "
+"The people, who were rioting, were certainly arrested.","The|D people|N ,|, who|WhPron were|V rioting|V ,|, were|V certainly|Adv arrested|V .|. "
+"John, who was carrying a blue notebook, was killed by Bill.","John|N ,|, who|WhPron was|V carrying|V a|D blue|A notebook|N ,|, was|V killed|V by|P Bill|N .|. "
+"The garments, that are poisoned, were stolen from the museum.","The|D garments|N ,|, that|WhD are|V poisoned|V ,|, were|V stolen|V from|P the|D museum|N .|. "
+"The dragons, who were purple, have been slain.","The|D dragons|N ,|, who|WhPron were|V purple|Adv ,|, have|V been|V slain|V .|. "
+"The book, which was old, was donated to the hospital.","The|D book|N ,|, which|WhD was|V old|A ,|, was|V donated|V to|To-Inf the|D hospital|N .|. "
+Complementary (SC),Complementary|N (|( SC|N )|) 
+Active Voice,Active|A Voice|N 
+This is the movie that you said was good.,This|D is|V the|D movie|N that|P you|Pron said|V was|V good|A .|. 
+I asked if Mary was here.,I|Pron asked|V if|P Mary|N was|V here|Adv .|. 
+It is probable that John is here.,It|Pron is|V probable|A that|P John|N is|V here|Adv .|. 
+They know which photographs are on sale.,They|Pron know|V which|WhD photographs|V are|V on|P sale|N .|. 
+It is likely that John is here.,It|Pron is|V likely|A that|P John|N is|V here|Adv .|. 
+John explained that we cannot afford this car.,John|N explained|V that|P we|Pron can|Mod not|Adv afford|V this|D car|N .|. 
+John regrets that they cannot afford this car.,John|N regrets|N that|P they|Pron can|Mod not|Adv afford|V this|D car|N .|. 
+"This year, I know the candidates that they will nominate.","This|D year|N ,|, I|Pron know|V the|D candidates|N that|P they|Pron will|Mod nominate|V .|. "
+The data that we observe is important.,The|D data|N that|P we|Pron observe|V is|V important|A .|. 
+"You don’t know whether one Tube stop is going to be 100 yards away, or whether it’s going to be miles away.","You|Pron don|V ’|A t|N know|V whether|P one|Q Tube|N stop|N is|V going|V to|To-Inf be|V 100|Q yards|N away|Adv ,|, or|Con whether|P it|Pron ’|V s|Adv going|V to|To-Inf be|V miles|N away|Adv .|. "
+All he wants to know is which boxes I have checked.,All|D he|Pron wants|V to|To-Inf know|V is|V which|WhD boxes|V I|Pron have|V checked|V .|. 
+"People ask why was I not at Coniston, but I would have been far too emotional.","People|N ask|V why|WhAdv was|V I|Pron not|Adv at|P Coniston|N ,|, but|Con I|Pron would|Mod have|V been|V far|Adv too|Adv emotional|A .|. "
+I think that you may be right.,I|Pron think|V that|P you|Pron may|Mod be|V right|A .|. 
+I doubt if you can help me.,I|Pron doubt|V if|P you|Pron can|Mod help|V me|Pron .|. 
+I’m anxious to receive the best medicine possible.,I|Pron ’|V m|Adv anxious|A to|To-Inf receive|V the|D best|A medicine|N possible|A .|. 
+He was anxious for tomorrow's events.,He|Pron was|V anxious|A for|P tomorrow|N 's|Pos events|N .|. 
+It is vital for there to be peace.,It|Pron is|V vital|A for|P there|Ex to|To-Inf be|V peace|N .|. 
+Bill said that he spooked the janitor.,Bill|N said|V that|P he|Pron spooked|V the|D janitor|N .|. 
+That he spooked the janitor worried John.,That|P he|Pron spooked|V the|D janitor|N worried|V John|N .|. 
+I asked if you knew the answer.,I|Pron asked|V if|P you|Pron knew|V the|D answer|N .|. 
+I know that Mary is here.,I|Pron know|V that|D Mary|N is|V here|Adv .|. 
+I know that you are on your way.,I|Pron know|V that|P you|Pron are|V on|P your|PosPron way|N .|. 
+John is aware that Mary is here.,John|N is|V aware|A that|P Mary|N is|V here|Adv .|. 
+I wondered if the situation had upset you.,I|Pron wondered|V if|P the|D situation|N had|V upset|V you|Pron .|. 
+I wondered if John's building a spaceship had upset you.,I|Pron wondered|V if|P John|N 's|Pos building|V a|D spaceship|N had|V upset|V you|Pron .|. 
+John said that Mary went home.,John|N said|V that|P Mary|N went|V home|N .|. 
+John thinks that a photo of himself is on sale.,John|N thinks|V that|P a|D photo|N of|P himself|Pron is|V on|P sale|N .|. 
+John thinks that Mary likes him.,John|N thinks|V that|P Mary|N likes|V him|Pron .|. 
+John told us that he was going to the supermarket.,John|N told|V us|Pron that|P he|Pron was|V going|V to|To-Inf the|D supermarket|N .|. 
+They think that photograph of them is on the market.,They|Pron think|V that|P photograph|N of|P them|Pron is|V on|P the|D market|N .|. 
+Passive Voice,Passive|A Voice|N 
+It was explained that we cannot afford this car.,It|Pron was|V explained|V that|P we|Pron can|Mod not|Adv afford|V this|D car|N .|. 
+It is known that Mary is here.,It|Pron is|V known|V that|P Mary|N is|V here|Adv .|. 
+It was said that he was going to the store.,It|Pron was|V said|V that|P he|Pron was|V going|V to|To-Inf the|D store|N .|. 
+It is believed that Mary likes him.,It|Pron is|V believed|V that|P Mary|N likes|V him|Pron .|. 
+It is known that a picture of them is being sold.,It|Pron is|V known|V that|P a|D picture|N of|P them|Pron is|V being|V sold|V .|. 
+The town that John destroyed was rebuilt.,The|D town|N that|WhD John|N destroyed|V was|V rebuilt|V .|. 
+They were asked whether they knew the answer.,They|Pron were|V asked|V whether|P they|Pron knew|V the|D answer|N .|. 
+It had been wondered whether the situation had been upsetting.,It|Pron had|V been|V wondered|V whether|P the|D situation|N had|V been|V upsetting|V .|. 
+It was said that he spooked the janitor.,It|Pron was|V said|V that|P he|Pron spooked|V the|D janitor|N .|. 
+It was stated that the movie had not been that good.,It|Pron was|V stated|V that|P the|D movie|N had|V not|Adv been|V that|P good|A .|. 
+Adjunct (SA),Adjunct|N (|( SA|N )|) 
+Active Voice,Active|A Voice|N 
+The president smokes a cigar after dinner.,The|D president|N smokes|V a|D cigar|N after|P dinner|N .|. 
+The president smoked a cigar the other day.,The|D president|N smoked|V a|D cigar|N the|D other|A day|N .|. 
+These people clearly think the president deliberately lied to Congress.,These|D people|N clearly|Adv think|V the|D president|N deliberately|Adv lied|V to|To-Inf Congress|N .|. 
+I liked the book about linguistics.,I|Pron liked|V the|D book|N about|P linguistics|N .|. 
+I liked the twentieth century yesterday.,I|Pron liked|V the|D twentieth|A century|N yesterday|N .|. 
+John destroyed a town last Friday and Godzilla did so as well.,John|N destroyed|V a|D town|N last|A Friday|N and|Con Godzilla|N did|V so|Adv as|Adv well|Adv .|. 
+Bill will destroy a town tomorrow and so will John.,Bill|N will|Mod destroy|V a|D town|N tomorrow|N and|Con so|Adv will|Mod John|N .|. 
+I have the book on the table that is wooden.,I|Pron have|V the|D book|N on|P the|D table|N that|WhD is|V wooden|A .|. 
+Mary can't go to the supermarket but John can.,Mary|N ca_n't|N go|V to|To-Inf the|D supermarket|N but|Con John|N can|Mod .|. 
+I buy books every day but John doesn't.,I|Pron buy|V books|N every|D day|N but|Con John|N does|V n't|Adv .|. 
+You talked to Mary after she spoke.,You|Pron talked|V to|To-Inf Mary|N after|P she|Pron spoke|V .|. 
+I have the intuition that every morning the sun rises while the earth remains perfectly still.,I|Pron have|V the|D intuition|N that|WhD every|D morning|N the|D sun|N rises|V while|P the|D earth|N remains|V perfectly|Adv still|Adv .|. 
+John is likely to be here in three days' time.,John|N is|V likely|A to|To-Inf be|V here|Adv in|P three|Q days|N '|Pos time|N .|. 
+This is the movie you said was good when we spoke the other day.,This|D is|V the|D movie|N you|Pron said|V was|V good|A when|WhAdv we|Pron spoke|V the|D other|A day|N .|. 
+"After she read his note, John thinks Mary likes him.","After|P she|Pron read|V his|PosPron note|N ,|, John|N thinks|V Mary|N likes|V him|Pron .|. "
+John destroyed a town after Bill did so.,John|N destroyed|V a|D town|N after|P Bill|N did|V so|Adv .|. 
+He was angry when she hid.,He|Pron was|V angry|A when|WhAdv she|Pron hid|V .|. 
+He had deliberately rolled the ball gently down the hill.,He|Pron had|V deliberately|Adv rolled|V the|D ball|N gently|Adv down|P the|D hill|N .|. 
+Mary jumped the horse perfectly over the last fence.,Mary|N jumped|V the|D horse|N perfectly|Adv over|P the|D last|A fence|N .|. 
+They will load the truck carefully with hay.,They|Pron will|Mod load|V the|D truck|N carefully|Adv with|P hay|N .|. 
+John cut himself while shaving.,John|N cut|V himself|Pron while|P shaving|V .|. 
+John wept before they spoke.,John|N wept|V before|P they|Pron spoke|V .|. 
+My niece could write me letters before her third birthday.,My|PosPron niece|N could|Mod write|V me|Pron letters|N before|P her|PosPron third|A birthday|N .|. 
+My nephew could write letters to his parents.,My|PosPron nephew|N could|Mod write|V letters|N to|To-Inf his|PosPron parents|N .|. 
+John can go to the market on his bike.,John|N can|Mod go|V to|To-Inf the|D market|N on|P his|PosPron bike|N .|. 
+Bill visited his uncle in Brazil earlier today.,Bill|N visited|V his|PosPron uncle|N in|P Brazil|N earlier|Adv today|N .|. 
+Mary ate the ice cream without saying anything.,Mary|N ate|V the|D ice|N cream|N without|P saying|V anything|N .|. 
+Mary drank some beer that is from the barn from six to nine.,Mary|N drank|V some|D beer|N that|WhD is|V from|P the|D barn|N from|P six|Q to|To-Inf nine|Q .|. 
+Mary should buy some flowers for her mother to arrange.,Mary|N should|Mod buy|V some|D flowers|N for|P her|PosPron mother|N to|To-Inf arrange|N .|. 
+"John wept, after the executioner left.","John|N wept|N ,|, after|P the|D executioner|N left|V .|. "
+Passive Voice,Passive|A Voice|N 
+It was said he spooked the janitor who was sitting.,It|Pron was|V said|V he|Pron spooked|V the|D janitor|N who|WhPron was|V sitting|V .|. 
+A cigar is being smoked by the president after dinner.,A|D cigar|N is|V being|V smoked|V by|P the|D president|N after|P dinner|N .|. 
+A cigar is being smoked by the president who is in his office.,A|D cigar|N is|V being|V smoked|V by|P the|D president|N who|WhPron is|V in|P his|PosPron office|N .|. 
+These books were not sold every day.,These|D books|N were|V not|Adv sold|V every|D day|N .|. 
+"From six to nine, Mary drank some beer that is from the barn.","From|P six|Q to|To-Inf nine|Q ,|, Mary|N drank|V some|D beer|N that|WhD is|V from|P the|D barn|N .|. "
+Some flowers should be bought by Mary for her mother to arrange.,Some|D flowers|N should|Mod be|V bought|V by|P Mary|N for|P her|PosPron mother|N to|To-Inf arrange|N .|. 
+Mary was seen with John after she spoke.,Mary|N was|V seen|V with|P John|N after|P she|Pron spoke|V .|. 
+Gently down the hill had the ball been deliberately rolled.,Gently|Adv down|Part the|D hill|N had|V the|D ball|N been|V deliberately|Adv rolled|V .|. 
+The ice cream has been placed in the fridge by Mary.,The|D ice|N cream|N has|V been|V placed|V in|P the|D fridge|N by|P Mary|N .|. 
+My uncle in Brazil was visited by Bill.,My|PosPron uncle|N in|P Brazil|N was|V visited|V by|P Bill|N .|. 
+Short Wh-Movement (WS),Short|A Wh-Movement|N (|( WS|N )|) 
+Active Voice,Active|A Voice|N 
+What languages can you speak?,What|WhPron languages|V can|Mod you|Pron speak|V ?|. 
+Which one would you like?,Which|WhD one|Pron would|Mod you|Pron like|V ?|. 
+Who was she talking to?,Who|WhPron was|V she|Pron talking|V to|To-Inf ?|. 
+Where are you going?,Where|WhAdv are|V you|Pron going|V ?|. 
+What hope of finding survivors could there be?,What|WhPron hope|N of|P finding|V survivors|N could|Mod there|Adv be|V ?|. 
+What proof that he was there have you found?,What|WhPron proof|N that|P he|Pron was|V there|Adv have|V you|Pron found|V ?|. 
+Which assignment have you done?,Which|A assignment|N have|V you|Pron done|V ?|. 
+Who called the police?,Who|WhPron called|V the|D police|N ?|. 
+Whose car did he borrow?,Whose|A car|N did|V he|Pron borrow|V ?|. 
+How many cars do you own?,How|WhAdv many|A cars|N do|V you|Pron own|V ?|. 
+Who were you phoning?,Who|WhPron were|V you|Pron phoning|V ?|. 
+How far did they go inside the tunnel?,How|WhAdv far|Adv did|V they|Pron go|V inside|P the|D tunnel|N ?|. 
+Why would anyone say anything?,Why|WhAdv would|Mod anyone|N say|V anything|N ?|. 
+Which movie have you seen?,Which|A movie|N have|V you|Pron seen|V ?|. 
+What excuse has he given?,What|WhPron excuse|N has|V he|Pron given|V ?|. 
+Who left Bill?,Who|WhPron left|V Bill|N ?|. 
+Which photograph of Bill did you put on his desk?,Which|A photograph|N of|P Bill|N did|V you|Pron put|V on|P his|PosPron desk|N ?|. 
+What can we finish?,What|WhPron can|Mod we|Pron finish|V ?|. 
+What did Bill eat?,What|WhPron did|V Bill|N eat|V ?|. 
+Who did you visit?,Who|WhPron did|V you|Pron visit|V ?|. 
+Why does gravity exist?,Why|WhAdv does|V gravity|N exist|V ?|. 
+Where does it go?,Where|WhAdv does|V it|Pron go|V ?|. 
+What exactly does John fear?,What|WhPron exactly|Adv does|V John|N fear|V ?|. 
+Who should I talk to?,Who|WhPron should|Mod I|Pron talk|V to|To-Inf ?|. 
+Whose book did you read?,Whose|A book|N did|V you|Pron read|V ?|. 
+How big is the house?,How|WhAdv big|A is|V the|D house|N ?|. 
+How much wood would a wood chuck chuck?,How|WhAdv much|A wood|N would|Mod a|D wood|N chuck|N chuck|N ?|. 
+Who will you see?,Who|WhPron will|Mod you|Pron see|V ?|. 
+Where did the student live?,Where|WhAdv did|V the|D student|N live|N ?|. 
+Whom did he hurt?,Whom|N did|V he|Pron hurt|V ?|. 
+Passive Voice,Passive|A Voice|N 
+What languages can be spoken?,What|WhPron languages|V can|Mod be|V spoken|V ?|. 
+Which picture was chosen?,Which|A picture|N was|V chosen|V ?|. 
+Who was being phoned?,Who|WhPron was|V being|V phoned|V ?|. 
+Whose car was borrowed?,Whose|A car|N was|V borrowed|V ?|. 
+What proof was found by the detective?,What|WhPron proof|N was|V found|V by|P the|D detective|N ?|. 
+Which movie was seen?,Which|A movie|N was|V seen|V ?|. 
+What can be finished in time?,What|WhPron can|Mod be|V finished|V in|P time|N ?|. 
+Whose book was read by the students?,Whose|A book|N was|V read|V by|P the|D students|N ?|. 
+What was eaten?,What|WhPron was|V eaten|V ?|. 
+Whom was hurt by him?,Whom|N was|V hurt|V by|P him|Pron ?|. 
+Long Wh-Movement (WL),Long|Adv Wh-Movement|N (|( WL|N )|) 
+Active Voice,Active|A Voice|N 
+Who do you think that they were talking to?,Who|WhPron do|V you|Pron think|V that|P they|Pron were|V talking|V to|To-Inf ?|. 
+To which of these groups do you consider that you belong to?,To|To-Inf which|WhD of|P these|D groups|N do|V you|Pron consider|V that|P you|Pron belong|V to|To-Inf ?|. 
+What might he think that she is hiding?,What|WhPron might|Mod he|Pron think|V that|P she|Pron is|V hiding|V ?|. 
+What did Bill say that he fixed?,What|WhPron did|V Bill|N say|V that|P he|Pron fixed|V ?|. 
+How far do you think they went inside the tunnel?,How|WhAdv far|Adv do|V you|Pron think|V they|Pron went|V inside|P the|D tunnel|N ?|. 
+What are all the things which you got for Christmas?,What|WhPron are|V all|D-Q the|D things|N which|WhD you|Pron got|V for|P Christmas|N ?|. 
+Which picture of himself does he think that she will like?,Which|A picture|N of|P himself|Pron does|V he|Pron think|V that|P she|Pron will|Mod like|V ?|. 
+What do you think Susan eats?,What|WhPron do|V you|Pron think|V Susan|N eats|N ?|. 
+How do you think John fixed the car?,How|WhAdv do|V you|Pron think|V John|N fixed|V the|D car|N ?|. 
+Which hotel do you think he is staying in?,Which|A hotel|N do|V you|Pron think|V he|Pron is|V staying|V in|P ?|. 
+Which footballer did they say that they published a picture of?,Which|A footballer|N did|V they|Pron say|V that|P they|Pron published|V a|D picture|N of|P ?|. 
+Which picture did you say that you have chosen?,Which|A picture|N did|V you|Pron say|V that|P you|Pron have|V chosen|V ?|. 
+Whose car did he think had crashed into what?,Whose|A car|N did|V he|Pron think|V had|V crashed|V into|P what|WhPron ?|. 
+With whom did John say that I fell in love?,With|P whom|WhPron did|V John|N say|V that|P I|Pron fell|V in|P love|N ?|. 
+Which picture of himself wasn't he sure that Mary liked best?,Which|A picture|N of|P himself|Pron was|V n't|Adv he|Pron sure|V that|P Mary|N liked|V best|A ?|. 
+What place did you think that Bill likes running to?,What|WhPron place|N did|V you|Pron think|V that|P Bill|N likes|V running|V to|To-Inf ?|. 
+What did you say that Bill thinks that I ate?,What|WhPron did|V you|Pron say|V that|P Bill|N thinks|V that|P I|Pron ate|V ?|. 
+Who should I tell your mother that you are going to visit tomorrow?,Who|WhPron should|Mod I|Pron tell|V your|PosPron mother|N that|P you|Pron are|V going|V to|To-Inf visit|V tomorrow|N ?|. 
+Who should I say your mother allowed you to visit tomorrow?,Who|WhPron should|Mod I|Pron say|V your|PosPron mother|N allowed|V you|Pron to|To-Inf visit|V tomorrow|N ?|. 
+When is it that your mother said that you can visit him?,When|WhAdv is|V it|Pron that|P your|PosPron mother|N said|V that|P you|Pron can|Mod visit|V him|Pron ?|. 
+Who did you say that I pushed?,Who|WhPron did|V you|Pron say|V that|P I|Pron pushed|V ?|. 
+Why do you wonder who Mary would like to invite for dinner?,Why|WhAdv do|V you|Pron wonder|V who|WhPron Mary|N would|Mod like|V to|To-Inf invite|V for|P dinner|N ?|. 
+What did Bill persuade John to buy?,What|WhPron did|V Bill|N persuade|V John|N to|To-Inf buy|V ?|. 
+What did you say that Bill saw?,What|WhPron did|V you|Pron say|V that|P Bill|N saw|V ?|. 
+What did you wonder that I bought for the party?,What|WhPron did|V you|Pron wonder|V that|P I|Pron bought|V for|P the|D party|N ?|. 
+Susan asked where to hide what?,Susan|N asked|V where|WhAdv to|To-Inf hide|V what|WhPron ?|. 
+Why did the boy say he hurt himself? ,Why|WhAdv did|V the|D boy|N say|V he|Pron hurt|V himself|Pron ?|. 
+What did I hear that she said?,What|WhPron did|V I|Pron hear|V that|P she|Pron said|V ?|. 
+Who did he imagine she talked to?,Who|WhPron did|V he|Pron imagine|V she|Pron talked|V to|To-Inf ?|. 
+Whom did he say that she talked with?,Whom|N did|V he|Pron say|V that|P she|Pron talked|V with|P ?|. 
+Passive Voice,Passive|A Voice|N 
+How far inside the tunnel do you think it was reached?,How|WhAdv far|Adv inside|P the|D tunnel|N do|V you|Pron think|V it|Pron was|V reached|V ?|. 
+Which footballers did John say had their photographs published?,Which|A footballers|N did|V John|N say|V had|V their|PosPron photographs|N published|V ?|. 
+How did John say the car was fixed?,How|WhAdv did|V John|N say|V the|D car|N was|V fixed|V ?|. 
+What gifts do you think I was given for Christmas?,What|WhPron gifts|V do|V you|Pron think|V I|Pron was|V given|V for|P Christmas|N ?|. 
+Which of these two dresses do you think she will prefer?,Which|N of|P these|D two|Q dresses|N do|V you|Pron think|V she|Pron will|Mod prefer|V ?|. 
+What was John persuaded by Bill to buy?,What|WhPron was|V John|N persuaded|V by|P Bill|N to|To-Inf buy|V ?|. 
+Who did you say was pushed?,Who|WhPron did|V you|Pron say|V was|V pushed|V ?|. 
+What did they think was hidden?,What|WhPron did|V they|Pron think|V was|V hidden|V ?|. 
+What did you say was seen?,What|WhPron did|V you|Pron say|V was|V seen|V ?|. 
+Why do you wonder who would be invited by Mary for dinner?,Why|WhAdv do|V you|Pron wonder|V who|WhPron would|Mod be|V invited|V by|P Mary|N for|P dinner|N ?|. 
+Ellipsis,Ellipsis|N 
+Active Voice,Active|A Voice|N 
+Mary can't go to the store but John can.,Mary|N ca_n't|N go|V to|To-Inf the|D store|N but|Con John|N can|Mod .|. 
+"You have been working hard, but John hasn't.","You|Pron have|V been|V working|V hard|A ,|, but|Con John|N has|V n't|Adv .|. "
+John has gone to the store and Bill has too.,John|N has|V gone|V to|To-Inf the|D store|N and|Con Bill|N has|V too|Adv .|. 
+John seemed to be happy and Mary did too.,John|N seemed|V to|To-Inf be|V happy|A and|Con Mary|N did|V too|Adv .|. 
+John practices for three hours every day and Bill does too.,John|N practices|N for|P three|Q hours|N every|D day|N and|Con Bill|N does|V too|Adv .|. 
+"I think I put the money in one of these books, but I can’t remember which.","I|Pron think|V I|Pron put|V the|D money|N in|P one|Q of|P these|D books|N ,|, but|Con I|Pron can|Mod ’|V t|A remember|N which|WhD .|. "
+"John bought an apple, and Mary a pear.","John|N bought|V an|D apple|N ,|, and|Con Mary|N a|D pear|N .|. "
+I asked him to write the report but he wouldn’t.,I|Pron asked|V him|Pron to|To-Inf write|V the|D report|N but|Con he|Pron wouldn|V ’|A t|N .|. 
+"This boy must not go to France, but his father must.","This|D boy|N must|Mod not|Adv go|V to|To-Inf France|N ,|, but|Con his|PosPron father|N must|Mod .|. "
+This girl will buy bread and so will that one.,This|D girl|N will|Mod buy|V bread|A and|Con so|Adv will|Mod that|P one|Q .|. 
+I buy books every day but John does not.,I|Pron buy|V books|N every|D day|N but|Con John|N does|V not|Adv .|. 
+John ran away and Mary did too.,John|N ran|V away|Adv and|Con Mary|N did|V too|Adv .|. 
+Mary fell asleep and John did too.,Mary|N fell|V asleep|Adv and|Con John|N did|V too|Adv .|. 
+"They say the chairman has resigned, but I don’t think he has.","They|Pron say|V the|D chairman|N has|V resigned|V ,|, but|Con I|Pron don|V ’|A t|N think|N he|Pron has|V .|. "
+"Bill knows he should go to the dentist, but he stubbornly refuses.","Bill|N knows|V he|Pron should|Mod go|V to|To-Inf the|D dentist|N ,|, but|Con he|Pron stubbornly|Adv refuses|V .|. "
+The press said that the chairman would resign from the board and he has.,The|D press|N said|V that|P the|D chairman|N would|Mod resign|V from|P the|D board|N and|Con he|Pron has|V .|. 
+"I don’t really want to go to the dentist’s office, but I know I should.","I|Pron don|V ’|A t|N really|Adv want|V to|To-Inf go|V to|To-Inf the|D dentist|N ’|N s|N office|N ,|, but|Con I|Pron know|V I|Pron should|Mod .|. "
+"I refuse to believe, but you don't refuse.","I|Pron refuse|V to|To-Inf believe|V ,|, but|Con you|Pron do|V n't|Adv refuse|V .|. "
+A lot of prisoners lie and say they are sorry about something when they are not.,A|D lot|N of|P prisoners|N lie|A and|Con say|V they|Pron are|V sorry|A about|P something|N when|WhAdv they|Pron are|V not|Adv .|. 
+"John had given his word to be loyal to her, and he was.","John|N had|V given|V his|PosPron word|N to|To-Inf be|V loyal|A to|To-Inf her|PosPron ,|, and|Con he|Pron was|V .|. "
+"I have never been to Australia, but a friend who has assures me that Moody is quite correct.","I|Pron have|V never|Adv been|V to|To-Inf Australia|N ,|, but|Con a|D friend|N who|WhPron has|V assures|N me|Pron that|P Moody|N is|V quite|Adv correct|A .|. "
+"We also intend to have a meeting with all parties and find out what’s gone wrong, because it’s obvious something has.","We|Pron also|Adv intend|V to|To-Inf have|V a|D meeting|N with|P all|D parties|N and|Con find|V out|Part what|WhPron ’|V s|N gone|V wrong|Adv ,|, because|P it|Pron ’|V s|Adv obvious|A something|N has|V .|. "
+"Under government policy, Cubans who make it to shore are generally allowed to stay, while those who do not are sent back to their homeland.","Under|P government|N policy|N ,|, Cubans|N who|WhPron make|V it|Pron to|To-Inf shore|V are|V generally|Adv allowed|V to|To-Inf stay|V ,|, while|P those|D who|WhPron do|V not|Adv are|V sent|V back|Adv to|To-Inf their|PosPron homeland|N .|. "
+"The governor will save California’s old-growth forests, as previous governors did not.","The|D governor|N will|Mod save|V California|N ’|N s|V old-growth|A forests|N ,|, as|P previous|A governors|N did|V not|Adv .|. "
+"He wants to be the boss and yesterday, he was.","He|Pron wants|V to|To-Inf be|V the|D boss|N and|Con yesterday|N ,|, he|Pron was|V .|. "
+Sometimes I feel like I would like to crawl away and hide but I will not.,Sometimes|Adv I|Pron feel|V like|P I|Pron would|Mod like|V to|To-Inf crawl|V away|Adv and|Con hide|V but|Con I|Pron will|Mod not|Adv .|. 
+We are all trying as if we could.,We|Pron are|V all|D trying|V as|P if|P we|Pron could|Mod .|. 
+"I believe that, if I were to continue to play for Zimbabwe, I would do so only
+by neglecting the voice of my conscience.","I|Pron believe|V that|P ,|, if|P I|Pron were|V to|To-Inf continue|V to|To-Inf play|V for|P Zimbabwe|N ,|, I|Pron would|Mod do|V so|Adv only|Adv by|P neglecting|V the|D voice|N of|P my|PosPron conscience|N .|. "
+"If we can put the fire out, we will do so.","If|P we|Pron can|Mod put|V the|D fire|N out|P ,|, we|Pron will|Mod do|V so|Adv .|. "
+"It is up to us other teams to take steps to rectify our performance deficiency, and we will.","It|Pron is|V up|P to|To-Inf us|Pron other|A teams|N to|To-Inf take|V steps|N to|To-Inf rectify|V our|PosPron performance|N deficiency|N ,|, and|Con we|Pron will|Mod .|. "
+Passive Voice,Passive|A Voice|N 
+John's muscles were trained everyday and so were Bill's.,John|N 's|Pos muscles|N were|V trained|V everyday|A and|Con so|Adv were|V Bill|N 's|Pos .|. 
+The report wouldn't be written even when I asked him to. ,The|D report|N would|Mod n't|Adv be|V written|V even|Adv when|WhAdv I|Pron asked|V him|Pron to|To-Inf .|. 
+"It was vowed that he would stay loyal, and he did.","It|Pron was|V vowed|V that|P he|Pron would|Mod stay|V loyal|A ,|, and|Con he|Pron did|V .|. "
+"It was said that he gave up, and they did too.","It|Pron was|V said|V that|P he|Pron gave|V up|Part ,|, and|Con they|Pron did|V too|Adv .|. "
+"The mother was not visited by the boy, but his father was.","The|D mother|N was|V not|Adv visited|V by|P the|D boy|N ,|, but|Con his|PosPron father|N was|V .|. "
+"This fire is being put out by us, and other companies are helping us too.","This|D fire|N is|V being|V put|V out|Part by|P us|Pron ,|, and|Con other|A companies|N are|V helping|V us|Pron too|Adv .|. "
+"The fire will be put out, if it can be.","The|D fire|N will|Mod be|V put|V out|Part ,|, if|P it|Pron can|Mod be|V .|. "
+The school proyect was worked on by Bill because John hadn't even started yet.,The|D school|N proyect|N was|V worked|V on|P by|P Bill|N because|P John|N had|V n't|Adv even|Adv started|V yet|Adv .|. 
+"Steps were taken to rectify our performance deficiency, and it was.","Steps|N were|V taken|V to|To-Inf rectify|V our|PosPron performance|N deficiency|N ,|, and|Con it|Pron was|V .|. "
+"Apologies were given by most prisoners, but the gang leaders refused to do so.","Apologies|N were|V given|V by|P most|A prisoners|N ,|, but|Con the|D gang|N leaders|N refused|V to|To-Inf do|V so|Adv .|. "
+Dependencies,Dependencies|N 
+Active Voice,Active|A Voice|N 
+The bottle cracked open.,The|D bottle|N cracked|V open|A .|. 
+The old house collapsed.,The|D old|A house|N collapsed|V .|. 
+I like Susan.,I|Pron like|V Susan|N .|. 
+Susan and Mary arrived first.,Susan|N and|Con Mary|N arrived|V first|Adv .|. 
+The best place to hide is under the bed.,The|D best|A place|N to|To-Inf hide|V is|V under|P the|D bed|N .|. 
+They came running over the hill and through the woods.,They|Pron came|V running|V over|P the|D hill|N and|Con through|P the|D woods|N .|. 
+They arrived first.,They|Pron arrived|V first|Adv .|. 
+Pigs love truffles.,Pigs|N love|V truffles|N .|. 
+Humans love to eat pigs.,Humans|N love|V to|To-Inf eat|V pigs|N .|. 
+I drink absinthe.,I|Pron drink|V absinthe|Adv .|. 
+Mary ran.,Mary|N ran|N .|. 
+John joked.,John|N joked|V .|. 
+The horse galloped.,The|D horse|N galloped|V .|. 
+Bill kicked the cat.,Bill|N kicked|V the|D cat|N .|. 
+Mary swallowed the fly.,Mary|N swallowed|V the|D fly|N .|. 
+John punched Bill.,John|N punched|V Bill|N .|. 
+Bill gave the tapestry to John.,Bill|N gave|V the|D tapestry|N to|To-Inf John|N .|. 
+The butler sent the poison to John.,The|D butler|N sent|V the|D poison|N to|To-Inf John|N .|. 
+John demonized Bill.,John|N demonized|A Bill|N .|. 
+"In her arm, Susan felt a twinge.","In|P her|PosPron arm|N ,|, Susan|N felt|V a|D twinge|N .|. "
+Genie intoned the prayer.,Genie|N intoned|V the|D prayer|N .|. 
+John became the mayor.,John|N became|V the|D mayor|N .|. 
+I want to kiss pigs.,I|Pron want|V to|To-Inf kiss|V pigs|N .|. 
+I want to sing.,I|Pron want|V to|To-Inf sing|V .|. 
+We donated a chopper to the new hospital.,We|Pron donated|V a|D chopper|N to|To-Inf the|D new|A hospital|N .|. 
+Mary and Bill soaked their feet after dinner.,Mary|N and|Con Bill|N soaked|V their|PosPron feet|N after|P dinner|N .|. 
+I love focaccia and sun dried tomatoes.,I|Pron love|V focaccia|Adv and|Con sun|V dried|V tomatoes|N .|. 
+I live on a boat.,I|Pron live|V on|P a|D boat|N .|. 
+John left Mary.,John|N left|V Mary|N .|. 
+The man is washing clothes.,The|D man|N is|V washing|V clothes|N .|. 
+Passive Voice,Passive|A Voice|N 
+Those bananas were eaten by monkeys.,Those|D bananas|N were|V eaten|V by|P monkeys|N .|. 
+The poison was sent by the butler. ,The|D poison|N was|V sent|V by|P the|D butler|N .|. 
+Absinthe is drinken regularly.,Absinthe|N is|V drinken|V regularly|Adv .|. 
+The boat is lived on. ,The|D boat|N is|V lived|V on|P .|. 
+Mary was left by John. ,Mary|N was|V left|V by|P John|N .|. 
+The tapestry was given to John.,The|D tapestry|N was|V given|V to|To-Inf John|N .|. 
+She was kissed.,She|Pron was|V kissed|V .|. 
+They were kicked out.,They|Pron were|V kicked|V out|Part .|. 
+The fly was swallowed. ,The|D fly|N was|V swallowed|V .|. 
+She was intended to be there.,She|Pron was|V intended|V to|To-Inf be|V there|Adv .|. 
+2 Way Lex,2|Q Way|N Lex|N 
+Restrictive Relative Clauses from 2A,Restrictive|A Relative|A Clauses|N from|P 2A|Q 
+The guy who is holding the red crane just hit me!,The|D guy|N who|WhPron is|V holding|V the|D red|A crane|N just|Adv hit|V me|Pron !|. 
+I found out something about hats that will interest you.,I|Pron found|V out|Part something|N about|P hats|N that|WhD will|Mod interest|N you|Pron .|. 
+The poem about dough that John wrote was very good.,The|D poem|N about|P dough|N that|P John|N wrote|V was|V very|Adv good|A .|. 
+The itch that we had yesterday was looked up.,The|D itch|N that|P we|Pron had|V yesterday|N was|V looked|V up|Part .|. 
+Non-restrictive Relative Clauses from 2A,Non-restrictive|A Relative|A Clauses|N from|P 2A|Q 
+"The hairy man, who I think might be drunk, hit me.","The|D hairy|N man|N ,|, who|WhPron I|Pron think|V might|Mod be|V drunk|V ,|, hit|V me|Pron .|. "
+"I think that Bill, who lives next door, is intoxicated.","I|Pron think|V that|P Bill|N ,|, who|WhPron lives|V next|A door|N ,|, is|V intoxicated|V .|. "
+"The people, who were walking, were certainly lost.","The|D people|N ,|, who|WhPron were|V walking|V ,|, were|V certainly|Adv lost|V .|. "
+"The rings, which were heavy, were removed from the museum.
+","The|D rings|N ,|, which|WhD were|V heavy|A ,|, were|V removed|V from|P the|D museum|N .|. "
+Subordination (Complementary) from 2A,Subordination|N (|( Complementary|N )|) from|P 2A|Q 
+John regrets that they cannot aquire this hat.,John|N regrets|N that|P they|Pron can|Mod not|Adv aquire|V this|D hat|N .|. 
+"This year, I know the plastic that they will use.","This|D year|N ,|, I|Pron know|V the|D plastic|N that|P they|Pron will|Mod use|V .|. "
+The ring that John bought was metal.,The|D ring|N that|WhD John|N bought|V was|V metal|N .|. 
+"It was stated that the film had not been that loud, which made it less enjoyable.","It|Pron was|V stated|V that|P the|D film|N had|V not|Adv been|V that|P loud|N ,|, which|WhD made|V it|Pron less|Adv enjoyable|A .|. "
+Subordination (Adjunct) Variants from 2A,Subordination|N (|( Adjunct|N )|) Variants|N from|P 2A|Q 
+The president felt intoxicated while he smoked a cigar after dinner.,The|D president|N felt|V intoxicated|V while|P he|Pron smoked|V a|D cigar|N after|P dinner|N .|. 
+"These people clearly think that the president's colorful announcements were lies, since nothing has changed.","These|D people|N clearly|Adv think|V that|P the|D president|N 's|Pos colorful|A announcements|N were|V lies|N ,|, since|P nothing|N has|V changed|V .|. "
+I purchased the story about cranes before I had started reading it.,I|Pron purchased|V the|D story|N about|P cranes|N before|P I|Pron had|V started|V reading|V it|Pron .|. 
+A cigar was smoked after the president made a loud controversial statement.,A|D cigar|N was|V smoked|V after|P the|D president|N made|V a|D loud|A controversial|A statement|N .|. 
+Wh-Movement (Short) Variants from 2A,Wh-Movement|A (|( Short|N )|) Variants|V from|P 2A|Q 
+What colorful languages can you speak?,What|WhPron colorful|A languages|N can|Mod you|Pron speak|V ?|. 
+Which itch would you scratch?,Which|A itch|N would|Mod you|Pron scratch|V ?|. 
+Who was she intoxicated with?,Who|WhPron was|V she|Pron intoxicated|V with|P ?|. 
+Which bar was phoned?,Which|A bar|N was|V phoned|V ?|. 
+Wh-Movement (Long) from 2A,Wh-Movement|A (|( Long|N )|) from|P 2A|Q 
+What are all the hats which you got for Christmas?,What|WhPron are|V all|D-Q the|D hats|N which|WhD you|Pron got|V for|P Christmas|N ?|. 
+Which strange picture of himself does he think that she will keep?,Which|A strange|A picture|N of|P himself|Pron does|V he|Pron think|V that|P she|Pron will|Mod keep|V ?|. 
+What dough do you think Susan eats?,What|WhPron dough|N do|V you|Pron think|V Susan|N eats|N ?|. 
+What plane did you say was seen?,What|WhPron plane|N did|V you|Pron say|V was|V seen|V ?|. 
+Dependencies Variants from 2A,Dependencies|N Variants|N from|P 2A|Q 
+He cut the plastic with a knife.,He|Pron cut|V the|D plastic|N with|P a|D knife|N .|. 
+The old crane collapsed.,The|D old|A crane|N collapsed|V .|. 
+The letter was for John.,The|D letter|N was|V for|P John|N .|. 
+They were removed from the club.,They|Pron were|V removed|V from|P the|D club|N .|. 
+Ellipsis Variants from 2A,Ellipsis|N Variants|N from|P 2A|Q 
+"Mary can't kneed the dough, but John can.","Mary|N ca_n't|N kneed|V the|D dough|N ,|, but|Con John|N can|Mod .|. "
+"You know itches are annoying, but John does not.","You|Pron know|V itches|N are|V annoying|V ,|, but|Con John|N does|V not|Adv .|. "
+"He was charged to stay, and he did.","He|Pron was|V charged|V to|To-Inf stay|V ,|, and|Con he|Pron did|V .|. "
+"The solution will be found out, if it can be.","The|D solution|N will|Mod be|V found|V out|Part ,|, if|P it|Pron can|Mod be|V .|. "
+Multi Lex,Multi|N Lex|N 
+Restrictive Relative Clauses from 2A,Restrictive|A Relative|A Clauses|N from|P 2A|Q 
+The teller who is holding the red bat just hit me!,The|D teller|N who|WhPron is|V holding|V the|D red|A bat|N just|Adv hit|V me|Pron !|. 
+I found out something about metal fans which will interest you.,I|Pron found|V out|Part something|N about|P metal|N fans|N which|WhD will|Mod interest|N you|Pron .|. 
+The cool poem that John wrote was very good.,The|D cool|A poem|N that|WhD John|N wrote|V was|V very|Adv good|A .|. 
+The film written next to John was very good.,The|D film|N written|V next|A to|To-Inf John|N was|V very|Adv good|A .|. 
+Non-restrictive Relative Clauses from 2A,Non-restrictive|A Relative|A Clauses|N from|P 2A|Q 
+"The man that is charging, who I think might be a fan, hit me.","The|D man|N that|WhD is|V charging|V ,|, who|WhPron I|Pron think|V might|Mod be|V a|D fan|N ,|, hit|V me|Pron .|. "
+"Mary answered the letter, which was hard.","Mary|N answered|V the|D letter|N ,|, which|WhD was|V hard|Adv .|. "
+"We observed that Susan killed the light, the one in the club.","We|Pron observed|V that|P Susan|N killed|V the|D light|N ,|, the|D one|Q in|P the|D club|N .|. "
+"For John, who loves dates, to not eat them would be impossible.","For|P John|N ,|, who|WhPron loves|V dates|N ,|, to|To-Inf not|Adv eat|V them|Pron would|Mod be|V impossible|A .|. "
+Subordination (Complementary) from 2A,Subordination|N (|( Complementary|N )|) from|P 2A|Q 
+This is the film that you said was cool.,This|D is|V the|D film|N that|P you|Pron said|V was|V cool|N .|. 
+It is fine that John is at the bar.,It|Pron is|V fine|A that|P John|N is|V at|P the|D bar|N .|. 
+They know which fans are on sale.,They|Pron know|V which|WhD fans|N are|V on|P sale|N .|. 
+I asked if the bank charged.,I|Pron asked|V if|P the|D bank|N charged|V .|. 
+Subordination (Adjunct) Variants from 2A,Subordination|N (|( Adjunct|N )|) Variants|N from|P 2A|Q 
+The president ran before he began smoking a cigar.,The|D president|N ran|V before|P he|Pron began|V smoking|V a|D cigar|N .|. 
+I purchased the story about bats before I started reading it.,I|Pron purchased|V the|D story|N about|P bats|N before|P I|Pron started|V reading|V it|Pron .|. 
+This collection of films were not cleaned every day after the janitor quit.,This|D collection|N of|P films|N were|V not|Adv cleaned|V every|D day|N after|P the|D janitor|N quit|N .|. 
+Mary was seen lost with John after she declared her love.,Mary|N was|V seen|V lost|V with|P John|N after|P she|Pron declared|V her|Pron love|N .|. 
+Wh-Movement (Short) Variants from 2A,Wh-Movement|A (|( Short|N )|) Variants|V from|P 2A|Q 
+Which date would you charge for?,Which|A date|N would|Mod you|Pron charge|V for|P ?|. 
+Where did you put the bar?,Where|WhAdv did|V you|Pron put|V the|D bar|N ?|. 
+Which letter was chosen?,Which|A letter|N was|V chosen|V ?|. 
+Which club was used?,Which|A club|N was|V used|V ?|. 
+Wh-Movement (Long) from 2A,Wh-Movement|A (|( Long|N )|) from|P 2A|Q 
+Who do you think they engaged?,Who|WhPron do|V you|Pron think|V they|Pron engaged|V ?|. 
+On whom do you consider that these rings fit best?,On|P whom|WhPron do|V you|Pron consider|V that|P these|D rings|N fit|V best|A ?|. 
+Which club do you think he wants to stay at?,Which|WhD club|N do|V you|Pron think|V he|Pron wants|V to|To-Inf stay|V at|P ?|. 
+How far inside the plane do you think it was built?,How|WhAdv far|Adv inside|P the|D plane|N do|V you|Pron think|V it|Pron was|V built|V ?|. 
+Dependencies Variants from 2A,Dependencies|N Variants|N from|P 2A|Q 
+He cut the date with a knife.,He|Pron cut|V the|D date|N with|P a|D knife|N .|. 
+The old plane collapsed.,The|D old|A plane|N collapsed|V .|. 
+The letter was for John.,The|D letter|N was|V for|P John|N .|. 
+They were removed from the club.,They|Pron were|V removed|V from|P the|D club|N .|. 
+Ellipsis Variants from 2A,Ellipsis|N Variants|N from|P 2A|Q 
+"Mary can't get to the plane, but John can.","Mary|N ca_n't|N get|N to|To-Inf the|D plane|N ,|, but|Con John|N can|Mod .|. "
+"This boy must not get the letter, but his father must.","This|D boy|N must|Mod not|Adv get|V the|D letter|N ,|, but|Con his|PosPron father|N must|Mod .|. "
+"The solution will be found out, if it can be.","The|D solution|N will|Mod be|V found|V out|Part ,|, if|P it|Pron can|Mod be|V .|. "
+"Apologies were given after the ring incident, but some did not do so.","Apologies|N were|V given|V after|P the|D ring|N incident|N ,|, but|Con some|D did|V not|Adv do|V so|Adv .|. "
+2 Way Structural,2|Q Way|N Structural|N 
+Restrictive Relative Clauses from 2A,Restrictive|A Relative|A Clauses|N from|P 2A|Q 
+The guy who is holding the red apple just hit the person with a paperclip!,The|D guy|N who|WhPron is|V holding|V the|D red|A apple|N just|Adv hit|V the|D person|N with|P a|D paperclip|N !|. 
+The poem that John wrote on the prairie was very good.,The|D poem|N that|WhD John|N wrote|V on|P the|D prairie|N was|V very|Adv good|A .|. 
+The song was sung by the woman who is happy.,The|D song|N was|V sung|V by|P the|D woman|N who|WhPron is|V happy|A .|. 
+The poem written by John was very good.,The|D poem|N written|V by|P John|N was|V very|Adv good|A .|. 
+Non-restrictive Relative Clauses from 2A,Non-restrictive|A Relative|A Clauses|N from|P 2A|Q 
+"The man that is escaping, who I think might be drunk, hit the lady with a pillow.","The|D man|N that|WhD is|V escaping|V ,|, who|WhPron I|Pron think|V might|Mod be|V drunk|V ,|, hit|V the|D lady|N with|P a|D pillow|N .|. "
+"Bill, who was quite afraid, had walked away from his neighbor with a yellow umbrella.","Bill|N ,|, who|WhPron was|V quite|Adv afraid|A ,|, had|V walked|V away|Adv from|P his|PosPron neighbor|N with|P a|D yellow|A umbrella|N .|. "
+The hat had been worn by Mary.,The|D hat|N had|V been|V worn|V by|P Mary|N .|. 
+"The book, which was old, was donated to the hospital with glee.","The|D book|N ,|, which|WhD was|V old|A ,|, was|V donated|V to|To-Inf the|D hospital|N with|P glee|N .|. "
+Subordination (Complementary) from 2A,Subordination|N (|( Complementary|N )|) from|P 2A|Q 
+John explained that we cannot afford this car with silver accesories.,John|N explained|V that|P we|Pron can|Mod not|Adv afford|V this|D car|N with|P silver|N accesories|N .|. 
+Bill said that he spooked the janitor with a gray wig.,Bill|N said|V that|P he|Pron spooked|V the|D janitor|N with|P a|D gray|A wig|N .|. 
+It was explained that we cannot afford this car during Christmas.,It|Pron was|V explained|V that|P we|Pron can|Mod not|Adv afford|V this|D car|N during|P Christmas|N .|. 
+It is known that Mary is here by everyone.,It|Pron is|V known|V that|P Mary|N is|V here|Adv by|P everyone|N .|. 
+Subordination (Adjunct) Variants from 2A,Subordination|N (|( Adjunct|N )|) Variants|N from|P 2A|Q 
+The president wrote a book on notebooks after he had his meeting.,The|D president|N wrote|V a|D book|N on|P notebooks|N after|P he|Pron had|V his|PosPron meeting|N .|. 
+The sun rises after the cow jumped over the moon with clouds.,The|D sun|N rises|V after|P the|D cow|N jumped|V over|P the|D moon|N with|P clouds|N .|. 
+Mary was seen after she spoke with John.,Mary|N was|V seen|V after|P she|Pron spoke|V with|P John|N .|. 
+My uncle in Brazil was seen by Tom before he died.,My|PosPron uncle|N in|P Brazil|N was|V seen|V by|P Tom|N before|P he|Pron died|V .|. 
+Wh-Movement (Short) Variants from 2A,Wh-Movement|A (|( Short|N )|) Variants|V from|P 2A|Q 
+What languages can you speak without difficulty with the tourist in costumes?,What|WhPron languages|V can|Mod you|Pron speak|V without|P difficulty|N with|P the|D tourist|N in|P costumes|N ?|. 
+Who was she talking to on the phone while patching up the jeans with black thread?,Who|WhPron was|V she|Pron talking|V to|To-Inf on|P the|D phone|N while|P patching|V up|Part the|D jeans|N with|P black|A thread|N ?|. 
+What can be finished in time for lunch at school?,What|WhPron can|Mod be|V finished|V in|P time|N for|P lunch|N at|P school|N ?|. 
+Whom was hurt after the man with the candle?,Whom|N was|V hurt|V after|P the|D man|N with|P the|D candle|N ?|. 
+Wh-Movement (Long) from 2A,Wh-Movement|A (|( Long|N )|) from|P 2A|Q 
+What car did Bill say that he fixed with tape?,What|WhPron car|N did|V Bill|N say|V that|P he|Pron fixed|V with|P tape|N ?|. 
+Why did the boy say he hurt himself with a microphone? ,Why|WhAdv did|V the|D boy|N say|V he|Pron hurt|V himself|Pron with|P a|D microphone|N ?|. 
+Who did you say was pushed at the stairs?,Who|WhPron did|V you|Pron say|V was|V pushed|V at|P the|D stairs|N ?|. 
+What did you say was seen with a microphone?,What|WhPron did|V you|Pron say|V was|V seen|V with|P a|D microphone|N ?|. 
+Dependencies Variants from 2A,Dependencies|N Variants|N from|P 2A|Q 
+He cut the apple with a knife.,He|Pron cut|V the|D apple|N with|P a|D knife|N .|. 
+Bill kicked the cat with yellow boots.,Bill|N kicked|V the|D cat|N with|P yellow|A boots|N .|. 
+She was kissed by the man with lipstick.,She|Pron was|V kissed|V by|P the|D man|N with|P lipstick|N .|. 
+The fly was swallowed for a proyect at school.,The|D fly|N was|V swallowed|V for|P a|D proyect|N at|P school|N .|. 
+Ellipsis Variants from 2A,Ellipsis|N Variants|N from|P 2A|Q 
+Mary can't go to the store with the cat but John can.,Mary|N ca_n't|N go|V to|To-Inf the|D store|N with|P the|D cat|N but|Con John|N can|Mod .|. 
+"They say the chairman has resigned from the board, but I don’t think he has.","They|Pron say|V the|D chairman|N has|V resigned|V from|P the|D board|N ,|, but|Con I|Pron don|V ’|A t|N think|N he|Pron has|V .|. "
+"This fire must be put out by the fire deparment, and it will be.","This|D fire|N must|Mod be|V put|V out|Part by|P the|D fire|N deparment|N ,|, and|Con it|Pron will|Mod be|V .|. "
+"Steps were taken by the team to improve, and we did.","Steps|N were|V taken|V by|P the|D team|N to|To-Inf improve|V ,|, and|Con we|Pron did|V .|. "
+Multiple Structural,Multiple|A Structural|N 
+Restrictive Relative Clauses from 1A,Restrictive|A Relative|A Clauses|N from|P 1A|Q 
+The guy who is holding the red apple just hit the person holding a coffee with a paperclip!,The|D guy|N who|WhPron is|V holding|V the|D red|A apple|N just|Adv hit|V the|D person|N holding|V a|D coffee|N with|P a|D paperclip|N !|. 
+The superhero saved the man with the shield made of silver and the girl with the shield made of gold.,The|D superhero|N saved|V the|D man|N with|P the|D shield|N made|V of|P silver|N and|Con the|D girl|N with|P the|D shield|N made|V of|P gold|N .|. 
+The banana that is being eaten by that monkey and chimpanzee with black spots is yellow.,The|D banana|N that|WhD is|V being|V eaten|V by|P that|D monkey|N and|Con chimpanzee|N with|P black|A spots|N is|V yellow|A .|. 
+The person was just hit by the guy with a paperclip. ,The|D person|N was|V just|Adv hit|V by|P the|D guy|N with|P a|D paperclip|N .|. 
+Non-restrictive Relative Clauses from 1A,Non-restrictive|A Relative|A Clauses|N from|P 1A|Q 
+"I asked which king, of the old kings, had invaded the city and island with golden armour.","I|Pron asked|V which|WhD king|N ,|, of|P the|D old|A kings|N ,|, had|V invaded|V the|D city|N and|Con island|N with|P golden|A armour|N .|. "
+"I wondered whether Mary, who has brown hair, had fled the building and scene with bloody residue.","I|Pron wondered|V whether|P Mary|N ,|, who|WhPron has|V brown|V hair|N ,|, had|V fled|V the|D building|N and|Con scene|N with|P bloody|N residue|N .|. "
+"The dragons, who were purple, have been slain by wizards and witches with sticks.","The|D dragons|N ,|, who|WhPron were|V purple|Adv ,|, have|V been|V slain|V by|P wizards|N and|Con witches|N with|P sticks|N .|. "
+"The book, which was old, was donated to the hospital by teachers and students with leather coats.","The|D book|N ,|, which|WhD was|V old|A ,|, was|V donated|V to|To-Inf the|D hospital|N by|P teachers|N and|Con students|N with|P leather|N coats|N .|. "
+Subordination (Complementary) from 1A,Subordination|N (|( Complementary|N )|) from|P 1A|Q 
+This is the movie that we saw in the theater and park with silk garments.,This|D is|V the|D movie|N that|P we|Pron saw|V in|P the|D theater|N and|Con park|N with|P silk|N garments|N .|. 
+They know which photographs are on sale on the beach with black sand.,They|Pron know|V which|WhD photographs|V are|V on|P sale|N on|P the|D beach|N with|P black|A sand|N .|. 
+The town that John destroyed with civilians was rebuilt. ,The|D town|N that|WhD John|N destroyed|V with|P civilians|N was|V rebuilt|V .|. 
+It was said that he spooked the janitor in the classroom with a spider.,It|Pron was|V said|V that|P he|Pron spooked|V the|D janitor|N in|P the|D classroom|N with|P a|D spider|N .|. 
+Subordination (Adjunct) Variants from 1A,Subordination|N (|( Adjunct|N )|) Variants|N from|P 1A|Q 
+The president wrote a book on notebooks with crayons after he had his meeting.,The|D president|N wrote|V a|D book|N on|P notebooks|N with|P crayons|N after|P he|Pron had|V his|PosPron meeting|N .|. 
+John destroyed a town with dogs last Friday since he was angry.,John|N destroyed|V a|D town|N with|P dogs|N last|A Friday|N since|P he|Pron was|V angry|A .|. 
+Mary ate ice cream until she was fired with joy by the company.,Mary|A ate|N ice|N cream|N until|P she|Pron was|V fired|V with|P joy|N by|P the|D company|N .|. 
+Mary was seen after she spoke yesterday and danced by John.,Mary|N was|V seen|V after|P she|Pron spoke|V yesterday|N and|Con danced|V by|P John|N .|. 
+Wh-Movement (Short) Variants from 1A,Wh-Movement|A (|( Short|N )|) Variants|V from|P 1A|Q 
+Who was she talking to on the phone while patching up the jeans and the shirt with black thread?,Who|WhPron was|V she|Pron talking|V to|To-Inf on|P the|D phone|N while|P patching|V up|Part the|D jeans|N and|Con the|D shirt|N with|P black|A thread|N ?|. 
+What hope of finding survivors in the forest with monkeys could there be?,What|WhPron hope|N of|P finding|V survivors|N in|P the|D forest|N with|P monkeys|N could|Mod there|Adv be|V ?|. 
+What proof was found by the detective with blood on the floor?,What|WhPron proof|N was|V found|V by|P the|D detective|N with|P blood|N on|P the|D floor|N ?|. 
+Whom was hurt by the man with the candle on the mansion?,Whom|N was|V hurt|V by|P the|D man|N with|P the|D candle|N on|P the|D mansion|N ?|. 
+Wh-Movement (Long) from 1A,Wh-Movement|A (|( Long|N )|) from|P 1A|Q 
+How far do you think they went inside the tunnel and cave with flashing lights?,How|WhAdv far|Adv do|V you|Pron think|V they|Pron went|V inside|P the|D tunnel|N and|Con cave|V with|P flashing|V lights|N ?|. 
+How do you think John fixed the car and truck with the purple wrench?,How|WhAdv do|V you|Pron think|V John|N fixed|V the|D car|N and|Con truck|N with|P the|D purple|N wrench|N ?|. 
+What did you say that Bill bought yesterday by the river with rocks?,What|WhPron did|V you|Pron say|V that|P Bill|N bought|V yesterday|N by|P the|D river|N with|P rocks|N ?|. 
+Why did the boy say he hurt himself with a microphone by the store? ,Why|WhAdv did|V the|D boy|N say|V he|Pron hurt|V himself|Pron with|P a|D microphone|N by|P the|D store|N ?|. 
+Dependencies Variants from 1A,Dependencies|N Variants|N from|P 1A|Q 
+They arrived first to the palace and the ceremony with horses.,They|Pron arrived|V first|Adv to|To-Inf the|D palace|N and|Con the|D ceremony|N with|P horses|N .|. 
+Bill kicked the dog and cat with yellow boots.,Bill|N kicked|V the|D dog|N and|Con cat|N with|P yellow|A boots|N .|. 
+Those bananas were eaten by gorillas and monkeys with spoons.,Those|D bananas|N were|V eaten|V by|P gorillas|N and|Con monkeys|N with|P spoons|N .|. 
+She was kissed by the man and girl with lipstick on.,She|Pron was|V kissed|V by|P the|D man|N and|Con girl|N with|P lipstick|N on|P .|. 
+Ellipsis Variants from 1A,Ellipsis|N Variants|N from|P 1A|Q 
+Mary can't go to the store and the building with her cat but John can.,Mary|N ca_n't|N go|V to|To-Inf the|D store|N and|Con the|D building|N with|P her|PosPron cat|N but|Con John|N can|Mod .|. 
+"If we can put the fire out with the hose and sand in the garden, we will do so.","If|P we|Pron can|Mod put|V the|D fire|N out|P with|P the|D hose|N and|Con sand|N in|P the|D garden|N ,|, we|Pron will|Mod do|V so|Adv .|. "
+"It was said that he gave up during the game in the arcade, and they did too.","It|Pron was|V said|V that|P he|Pron gave|V up|Part during|P the|D game|N in|P the|D arcade|N ,|, and|Con they|Pron did|V too|Adv .|. "
+"The mother said she was not visited by the boy in the pier, but his father was.","The|D mother|N said|V she|Pron was|V not|Adv visited|V by|P the|D boy|N in|P the|D pier|N ,|, but|Con his|PosPron father|N was|V .|. "
+Lexical and Structural,Lexical|A and|Con Structural|A 
+Restrictive Relative Clauses from 1A,Restrictive|A Relative|A Clauses|N from|P 1A|Q 
+The drunk man hit the dog and the cat with a bat.,The|D drunk|N man|N hit|V the|D dog|N and|Con the|D cat|N with|P a|D bat|N .|. 
+The monkey with a metal spoon is eating the banana.,The|D monkey|N with|P a|D metal|N spoon|N is|V eating|V the|D banana|N .|. 
+The guy who was walking was hit by the teller.,The|D guy|N who|WhPron was|V walking|V was|V hit|V by|P the|D teller|N .|. 
+The poem written by John was very colorful.,The|D poem|N written|V by|P John|N was|V very|Adv colorful|A .|. 
+Non-restrictive Relative Clauses from 1A,Non-restrictive|A Relative|A Clauses|N from|P 1A|Q 
+"It is tough to teach syntax, especially to the people who live next door with cranes.","It|Pron is|V tough|A to|To-Inf teach|V syntax|N ,|, especially|Adv to|To-Inf the|D people|N who|WhPron live|V next|A door|N with|P cranes|N .|. "
+"John, who looked tepid, saw the gorgon with his shield.","John|N ,|, who|WhPron looked|V tepid|A ,|, saw|V the|D gorgon|N with|P his|PosPron shield|N .|. "
+"Susan, sister of Mary, tended to appear cool when she would chase her friends wearing combat boots.","Susan|N ,|, sister|N of|P Mary|N ,|, tended|V to|To-Inf appear|V cool|N when|WhAdv she|Pron would|Mod chase|V her|PosPron friends|N wearing|V combat|N boots|N .|. "
+"Cops arrested the people, who were rioting, with clubs.","Cops|N arrested|V the|D people|N ,|, who|WhPron were|V rioting|V ,|, with|P clubs|N .|. "
+Subordination (Complementary) from 1A,Subordination|N (|( Complementary|N )|) from|P 1A|Q 
+John is at the club built by the company.,John|N is|V at|P the|D club|N built|V by|P the|D company|N .|. 
+I wondered if John's building a light spaceship with flowers upset you.,I|Pron wondered|V if|P John|N 's|Pos building|N a|D light|A spaceship|N with|P flowers|N upset|V you|Pron .|. 
+It is known that a photo of them is being sold by the club.,It|Pron is|V known|V that|P a|D photo|N of|P them|Pron is|V being|V sold|V by|P the|D club|N .|. 
+It was stated that the film had not been that good before release.,It|Pron was|V stated|V that|P the|D film|N had|V not|Adv been|V that|Adv good|A before|P release|N .|. 
+Subordination (Adjunct) Variants from 1A,Subordination|N (|( Adjunct|N )|) Variants|N from|P 1A|Q 
+He was devastated after they left the ring without candy.,He|Pron was|V devastated|V after|P they|Pron left|V the|D ring|N without|P candy|N .|. 
+John will go to the bazaar when he makes enough dough for Mary.,John|N will|Mod go|V to|To-Inf the|D bazaar|N when|WhAdv he|Pron makes|V enough|A dough|P for|P Mary|N .|. 
+Bill visited his uncle with a gift in Brazil before he died in a crane accident.,Bill|N visited|V his|PosPron uncle|N with|P a|D gift|N in|P Brazil|N before|P he|Pron died|V in|P a|D crane|A accident|N .|. 
+Mary drank some beer and wine that is from the bar before she went home.,Mary|N drank|V some|D beer|N and|Con wine|N that|WhD is|V from|P the|D bar|N before|P she|Pron went|V home|N .|. 
+Wh-Movement (Short) Variants from 1A,Wh-Movement|A (|( Short|N )|) Variants|V from|P 1A|Q 
+What excuse has he given to have hit the girl with a bat?,What|WhPron excuse|N has|V he|Pron given|V to|To-Inf have|V hit|V the|D girl|N with|P a|D bat|N ?|. 
+Who should I talk to today on behalf of students at the club?,Who|WhPron should|Mod I|Pron talk|V to|To-Inf today|N on|P behalf|N of|P students|N at|P the|D club|N ?|. 
+Whose car was borrowed after the crash at the bar?,Whose|A car|N was|V borrowed|V after|P the|D crash|N at|P the|D bar|N ?|. 
+Whose letter was read next to the students with glasses?,Whose|A letter|N was|V read|V next|A to|To-Inf the|D students|N with|P glasses|N ?|. 
+Wh-Movement (Long) from 1A,Wh-Movement|A (|( Long|N )|) from|P 1A|Q 
+Who do you think that they were talking to during the meeting on the plane?,Who|WhPron do|V you|Pron think|V that|P they|Pron were|V talking|V to|To-Inf during|P the|D meeting|N on|P the|D plane|N ?|. 
+Whose bike did he think had crashed into the wall with bats?,Whose|N bike|N did|V he|Pron think|V had|V crashed|V into|P the|D wall|N with|P bats|N ?|. 
+With whom did the man say that he engaged yesterday?,With|P whom|WhPron did|V the|D man|N say|V that|P he|Pron engaged|V yesterday|N ?|. 
+Who did you say was pushed by the crane?,Who|WhPron did|V you|Pron say|V was|V pushed|V by|P the|D crane|N ?|. 
+Dependencies Variants from 1A,Dependencies|N Variants|N from|P 1A|Q 
+I can fish.,I|Pron can|Mod fish|V .|. 
+I can sheep.,I|Pron can|Mod sheep|V .|. 
+I can paint.,I|Pron can|Mod paint|V .|. 
+I eat tacos by my favorite company.,I|Pron eat|V tacos|A by|P my|PosPron favorite|A company|N .|. 
+Ellipsis Variants from 1A,Ellipsis|N Variants|N from|P 1A|Q 
+This girl will buy dought and flowers with coins and so will she.,This|D girl|N will|Mod buy|V dought|N and|Con flowers|N with|P coins|N and|Con so|Adv will|Mod she|Pron .|. 
+I buy film and books with cats but John doesn't.,I|Pron buy|V film|N and|Con books|N with|P cats|N but|Con John|N does|V n't|Adv .|. 
+John walked and sang calmly to the lake and Mary did too.,John|N walked|V and|Con sang|V calmly|N to|To-Inf the|D lake|N and|Con Mary|N did|V too|Adv .|. 
+"We are all trying to find the pen and solution with instructions, but we cannot.","We|Pron are|V all|D trying|V to|To-Inf find|V the|D pen|N and|Con solution|N with|P instructions|N ,|, but|Con we|Pron can|Mod not|Adv .|. "
